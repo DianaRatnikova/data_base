@@ -17,7 +17,7 @@ https://customer.elephantsql.com/instance
 https://www.valentina-db.com/
 ```
 
-### Создание базы данных
+### Создание таблицы users базы данных
 Из корня проекта запустите конструктор базы данных:
 ```
 python models.py
